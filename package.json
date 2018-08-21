@@ -1,0 +1,20 @@
+{
+  "name": "rk-html-spinner",
+  "version": "1.0.0",
+  "description": "Pure HTML CSS Spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html-spinner",
+    "spinner",
+    "loading indicator"
+  ],
+  "author": "Rajanikanth Katakam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajanikanthKatakam/rk-html-spinner.git"
+  }
+}
